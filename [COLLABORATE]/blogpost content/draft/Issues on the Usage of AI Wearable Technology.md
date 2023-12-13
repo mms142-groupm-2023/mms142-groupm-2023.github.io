@@ -13,8 +13,9 @@
 </p>
 ### Long-term Effect on the Wearer’s Body <p align="Justify">Long term health problems may be a result in wearing technology in your body for a longer time, but this needs further research to be able to list evidence on their negative effects (Nahavandi, 2022).
 </p>
+
 ### Cost and Accessibility
-Currently, another big issue regarding the adoption of wearable technology, both AI and non AI, would be its <em><b>accessibility to the general public</b></em>, especially when taking into consideration their <em><b>cost</b></em>. This concern should be of high significance considering the uses that AI technology can have in many fields and contexts as outlined. Until wearable AI technology is made available to the general public at affordable prices, it may be unlikely that it can take over as well as other technologies have.
+<p align="Justify">Currently, another big issue regarding the adoption of wearable technology, both AI and non AI, would be its <em><b>accessibility to the general public</b></em>, especially when taking into consideration their <em><b>cost</b></em>. This concern should be of high significance considering the uses that AI technology can have in many fields and contexts as outlined. Until wearable AI technology is made available to the general public at affordable prices, it may be unlikely that it can take over as well as other technologies have.
 Many AI Wearable technology products that have been released as of late costs around a few hundred dollars, which would require heavy investment from potential buyers. 
 For example, Humane’s AI Pin’s starting price is <em><b>$699</b></em> for their most affordable model Eclipse.
 Meta Ray Ban’s Headliner and Wayfarer models’ starting price is <em><b>$299</b></em>.
@@ -29,4 +30,14 @@ The company Rewind is looking to release a product called the Rewind Pendant, an
 
 - Rewind AI. (2023) Rewind Pendant. Retrieved December 12, 2023. https://www.rewind.ai/pendant 
 
-- Kirilov, K. (2023, November 13). Wearable AI devices and the emerging AI capabilities. CloudTweaks. https://cloudtweaks.com/2017/07/wearable-ai-devices/ 
+- Kirilov, K. (2023, November 13). Wearable AI devices and the emerging AI capabilities. CloudTweaks. https://cloudtweaks.com/2017/07/wearable-ai-devices/
+
+- Belletier, C., Charkhabi, M., Pires de Andrade Silva, G. et al (2021). Wearable cognitive assistants in a factory setting: a critical review of a promising way of enhancing cognitive performance and well-being. Cogn Tech Work 23, 103–116, https://doi.org/10.1007/s10111-019-00610-2 
+
+- ried, I. (2023). Companies race to make AI you can wear. Axios. Retrieved from https://www.axios.com/2023/10/04/ai-wearables-meta-humane-tab-rewind
+
+- Kuratomi, D., Shin, C., Duffy, V.G. (2023). Systematic Literature Review on the Advances of Wearable Technologies. In: Duffy, V.G., Krömker, H., A. Streitz, N., Konomi, S. (eds) HCI International 2023 – Late Breaking Papers. HCII 2023. Lecture Notes in Computer Science, vol 14057. Springer, Cham. https://doi.org/10.1007/978-3-031-48047-8_5 
+
+- Khakurel, J., Pöysä, S., Porras, J. (2017). The Use of Wearable Devices in the Workplace - A Systematic Literature Review. In: Gaggi, O., Manzoni, P., Palazzi, C., Bujari, A., Marquez-Barja, J. (eds) Smart Objects and Technologies for Social Good. GOODTECHS 2016. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 195. Springer, Cham. https://doi.org/10.1007/978-3-319-61949-1_30
+
+- Nahavandi, D., Alizadehsani, R., Khosravi, A., & Acharya, U.R. (2022). Application of artificial intelligence in wearable devices: Opportunities and challenges. Computer Methods and Programs in Biomedicine,  213, doi: https://doi.org/10.1016/j.cmpb.2021.106541. 
