@@ -11,6 +11,7 @@
 ### Battery Life
 <p align="Justify">Some wearable technology needs a longer battery life since some are used primarily for workers in continued working shifts (Nahavandi, 2022). 
 </p>
+
 ### Long-term Effect on the Wearer’s Body <p align="Justify">Long term health problems may be a result in wearing technology in your body for a longer time, but this needs further research to be able to list evidence on their negative effects (Nahavandi, 2022).
 </p>
 
