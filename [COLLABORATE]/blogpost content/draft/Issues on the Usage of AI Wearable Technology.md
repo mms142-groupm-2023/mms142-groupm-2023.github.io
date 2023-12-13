@@ -5,15 +5,15 @@
 # What are the issues concerning the usage of AI Wearable Technology?
 
 ### Privacy and Security Risks
-<p align="Justify">The main problem involving wearable technology is that we are not sure about privacy and security risks that a particular accessory may possess, since these are worn in the body by users and collect data of various types such as heart rates, mental health, etc at any time (Fried, 2023; Belletier, et al, 2021; Kuratomi, 2023).
+<p align="Justify">The main problem involving wearable technology is that we are not sure about privacy and security risks that a particular accessory may possess, since these are worn in the body by users and collect data of various types such as heart rates, mental health, etc at any time <em>(Fried, 2023; Belletier, et al, 2021; Kuratomi, 2023)</em>.
 </p>
 
 ### Battery Life
-<p align="Justify">Some wearable technology needs a longer battery life since some are used primarily for workers in continued working shifts (Nahavandi, 2022). 
+<p align="Justify"> <em>Nahavandi(2022)</em> explains that some wearable technology need a longer battery life since some are used primarily for workers in continued working shifts.
 </p>
 
 ### Long-term Effect on the Wearer’s Body 
-<p align="Justify">Long term health problems may be a result in wearing technology in your body for a longer time, but this needs further research to be able to list evidence on their negative effects (Nahavandi, 2022).
+<p align="Justify">Long term health problems may be a result in wearing technology in your body for a longer time, but this needs further research to be able to list evidence on their negative effects <em>(Nahavandi, 2022).</em>
 </p>
 
 ### Cost and Accessibility
