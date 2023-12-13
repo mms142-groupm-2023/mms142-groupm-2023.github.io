@@ -7,6 +7,7 @@
 ### Privacy and Security Risks
 <p align="Justify">The main problem involving wearable technology is that we are not sure about privacy and security risks that a particular accessory may possess, since these are worn in the body by users and collect data of various types such as heart rates, mental health, etc at any time (Fried, 2023; Belletier, et al, 2021; Kuratomi, 2023).
 </p>
+
 ### Battery Life
 <p align="Justify">Some wearable technology needs a longer battery life since some are used primarily for workers in continued working shifts (Nahavandi, 2022). 
 </p>
