@@ -36,7 +36,7 @@ The company Rewind is looking to release a product called the Rewind Pendant, an
 
 - Belletier, C., Charkhabi, M., Pires de Andrade Silva, G. et al (2021). Wearable cognitive assistants in a factory setting: a critical review of a promising way of enhancing cognitive performance and well-being. Cogn Tech Work 23, 103–116, https://doi.org/10.1007/s10111-019-00610-2 
 
-- ried, I. (2023). Companies race to make AI you can wear. Axios. Retrieved from https://www.axios.com/2023/10/04/ai-wearables-meta-humane-tab-rewind
+- Fried, I. (2023). Companies race to make AI you can wear. Axios. Retrieved from https://www.axios.com/2023/10/04/ai-wearables-meta-humane-tab-rewind
 
 - Kuratomi, D., Shin, C., Duffy, V.G. (2023). Systematic Literature Review on the Advances of Wearable Technologies. In: Duffy, V.G., Krömker, H., A. Streitz, N., Konomi, S. (eds) HCI International 2023 – Late Breaking Papers. HCII 2023. Lecture Notes in Computer Science, vol 14057. Springer, Cham. https://doi.org/10.1007/978-3-031-48047-8_5 
 
