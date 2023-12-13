@@ -5,10 +5,13 @@
 # What are the issues concerning the usage of AI Wearable Technology?
 
 ### Privacy and Security Risks
-<p align="Justify">The main problem involving wearable technology is that we are not sure about privacy and security risks that a particular accessory may possess, since these are worn in the body by users and collect data of various types such as heart rates, mental health, etc at any time (Fried, 2023; Belletier, et al, 2021; Kuratomi, 2023).</p>
+<p align="Justify">The main problem involving wearable technology is that we are not sure about privacy and security risks that a particular accessory may possess, since these are worn in the body by users and collect data of various types such as heart rates, mental health, etc at any time (Fried, 2023; Belletier, et al, 2021; Kuratomi, 2023).
+</p>
 ### Battery Life
-<p align="Justify">Some wearable technology needs a longer battery life since some are used primarily for workers in continued working shifts (Nahavandi, 2022). </p>
-### Long-term Effect on the Wearer’s Body <p align="Justify">Long term health problems may be a result in wearing technology in your body for a longer time, but this needs further research to be able to list evidence on their negative effects (Nahavandi, 2022).</p>
+<p align="Justify">Some wearable technology needs a longer battery life since some are used primarily for workers in continued working shifts (Nahavandi, 2022). 
+</p>
+### Long-term Effect on the Wearer’s Body <p align="Justify">Long term health problems may be a result in wearing technology in your body for a longer time, but this needs further research to be able to list evidence on their negative effects (Nahavandi, 2022).
+</p>
 ### Cost and Accessibility
 Currently, another big issue regarding the adoption of wearable technology, both AI and non AI, would be its <em><b>accessibility to the general public</b></em>, especially when taking into consideration their <em><b>cost</b></em>. This concern should be of high significance considering the uses that AI technology can have in many fields and contexts as outlined. Until wearable AI technology is made available to the general public at affordable prices, it may be unlikely that it can take over as well as other technologies have.
 Many AI Wearable technology products that have been released as of late costs around a few hundred dollars, which would require heavy investment from potential buyers. 
