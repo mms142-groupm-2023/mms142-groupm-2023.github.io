@@ -2,7 +2,9 @@
 
 >Topic: Accessibility of AI Wearable Techonology
 
+<p align="center">
 # Is it viable for AI wearable technology to become accessible to the general public?
+</p>
 
 Currently, another big issue regarding the adoption of wearable technology, both AI and non AI, would be its **accessibility to the general public**, especially when taking into consideration their **cost**. This concern should be of high significance considering the uses that AI technology can have in many fields and contexts as outlined. Until wearable AI technology is made available to the general public at affordable prices, it may be unlikely that it can take over as well as other technologies have.
 Many AI Wearable technology products that have been released as of late costs around a few hundred dollars, which would require heavy investment from potential buyers. 
@@ -19,10 +21,3 @@ The company Rewind is looking to release a product called the Rewind Pendant, an
 - Rewind AI. (2023) Rewind Pendant. Retrieved December 12, 2023, from https://www.rewind.ai/pendant 
 
 - Kirilov, K. (2023, November 13). Wearable AI devices and the emerging AI capabilities. CloudTweaks. https://cloudtweaks.com/2017/07/wearable-ai-devices/ 
-
-<p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
-</p>
-<p align="right">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
-</p>
