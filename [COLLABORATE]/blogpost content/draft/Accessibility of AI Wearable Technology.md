@@ -19,3 +19,10 @@ The company Rewind is looking to release a product called the Rewind Pendant, an
 - Rewind AI. (2023) Rewind Pendant. Retrieved December 12, 2023, from https://www.rewind.ai/pendant 
 
 - Kirilov, K. (2023, November 13). Wearable AI devices and the emerging AI capabilities. CloudTweaks. https://cloudtweaks.com/2017/07/wearable-ai-devices/ 
+
+<p align="center">
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+</p>
+<p align="right">
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+</p>
