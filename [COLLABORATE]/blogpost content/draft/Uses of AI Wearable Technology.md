@@ -31,17 +31,17 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 
 - Nahavandi (2022) listed different areas in which AI wearable technology can benefit from, these includes areas in:
   
-  **Sports** – players can avoid potential injuries arising from heat stroke, for example. AI wearable devices can monitor a player’s vitals and maintain a balanced body temperature.
+    **Sports** – players can avoid potential injuries arising from heat stroke, for example. AI wearable devices can monitor a player’s vitals and maintain a balanced body temperature.
   
-  **Healthcare and health status monitoring** – AI wearable technologies can monitor blood pressure, heart rate, etc.
+    **Healthcare and health status monitoring** – AI wearable technologies can monitor blood pressure, heart rate, etc.
   
-  **Fitness** – wearable devices can track “fitness-related activities” (p.10) and motivate the user to be healthy, keeping in mind that measurements are not always accurate.
+    **Fitness** – wearable devices can track “fitness-related activities” (p.10) and motivate the user to be healthy, keeping in mind that measurements are not always accurate.
   
-  **Mental health** – wearable devices are said to be useful in determining human physiology status based on collected data such as “heartbeat, blood pressure, body temperature, or ECG (p.13)”
+    **Mental health** – wearable devices are said to be useful in determining human physiology status based on collected data such as “heartbeat, blood pressure, body temperature, or ECG (p.13)”
   
-  **Helping with movement disorders** – this can be used in assisting stroke patients in the movement of hips and knees, for instance.
+    **Helping with movement disorders** – this can be used in assisting stroke patients in the movement of hips and knees, for instance.
   
-  **Autism** – previous wearable technology devices were created to improve autistic children in emotion recognition as well as stereotypical motor movements (SMMs) (p.13) for decision-making.
+    **Autism** – previous wearable technology devices were created to improve autistic children in emotion recognition as well as stereotypical motor movements (SMMs) (p.13) for decision-making.
 
 </p>
 
