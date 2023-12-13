@@ -12,16 +12,16 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 
 ### II. Examples of wearable technology applied in the workplace: (Nahavandi, 2022)
 <p align="Justify">
-    1. WearIT@work project (in Skoda Auto car Manufacturing)
+    <b>1. WearIT@work project (in Skoda Auto car Manufacturing)</b><br>
         A wearable device consisting of a belt computer and a head-mounted display was created to replace traditional paper-based car quality assurance performed at the end of the assembly line. This was also created for the workers to be able to use it even without training.
         Problem – battery life, since workers will use it at normal working hours, thus, these wearable devices need to be useable for that amount of time.
 <br><br>
-    2. Carnegie Mellon University (CMU)’s “Navigator 2”
+    <b>2. Carnegie Mellon University (CMU)’s “Navigator 2”</b><br>
         This research and creation of wearable devices was used to lessen inspection time for mobile workers. 
         The creation of this wearable device has reduced the inspection time to 50%.
         Main challenges – interface design, cognitive model, contextual awareness, and adaptation to tasks being performed (p.14)
 <br><br>
-    3. Georgia Institute of Technology (Georgia Tech) order picking wearable device
+    <b>3. Georgia Institute of Technology (Georgia Tech) Order Picking Wearable Device </b><br>
         This device has helped workers in efficient order picking and could also help in preventing possible human errors.
         Challenge – wearability of head-mounted displays and optimization of decision-making for mobile workers through wearable computing. (p.14)
 <br><br>
