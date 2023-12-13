@@ -5,7 +5,7 @@
 # Is it viable for AI wearable technology to become accessible to the general public?
   
 <p align="Justify">
-Currently, another big issue regarding the adoption of wearable technology, both AI and non AI, would be its <b>accessibility to the general public</b>, especially when taking into consideration their <b>cost</b>. This concern should be of high significance considering the uses that AI technology can have in many fields and contexts as outlined. Until wearable AI technology is made available to the general public at affordable prices, it may be unlikely that it can take over as well as other technologies have.
+Currently, another big issue regarding the adoption of wearable technology, both AI and non AI, would be its <em><b>accessibility to the general public</b></em>, especially when taking into consideration their <b>cost</b>. This concern should be of high significance considering the uses that AI technology can have in many fields and contexts as outlined. Until wearable AI technology is made available to the general public at affordable prices, it may be unlikely that it can take over as well as other technologies have.
 Many AI Wearable technology products that have been released as of late costs around a few hundred dollars, which would require heavy investment from potential buyers. 
 For example, Humane’s AI Pin’s starting price is <b>$699</b> for their most affordable model Eclipse.
 Meta Ray Ban’s Headliner and Wayfarer models’ starting price is <b>$299</b>.
