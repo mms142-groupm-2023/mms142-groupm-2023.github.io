@@ -29,7 +29,7 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
     
 ### III. AI Wearable Technology in Other Areas
 
-- Nahavandi (2022) listed different areas in which AI wearable technology can benefit from, these includes areas in:
+*Nahavandi (2022) listed different areas in which AI wearable technology can benefit from, these includes areas in:*
   
     **Sports** – players can avoid potential injuries arising from heat stroke, for example. AI wearable devices can monitor a player’s vitals and maintain a balanced body temperature.
   
