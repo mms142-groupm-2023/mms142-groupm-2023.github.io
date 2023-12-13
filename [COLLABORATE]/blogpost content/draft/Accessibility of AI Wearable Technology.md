@@ -14,10 +14,17 @@ The company Rewind is looking to release a product called the Rewind Pendant, an
 
 ### References
 
-- Humane. (2023) Shop. Retrieved December 12, 2023, from https://hu.ma.ne/shop
+- Humane. (2023) Shop. Retrieved December 12, 2023.
+   https://hu.ma.ne/shop
 
-- Ray-Ban. (2023) Discover Ray-Ban | Meta Smart Glasses: Specs & features. https://www.ray-ban.com/usa/discover-ray-ban-meta-smart-glasses/clp
+- Ray-Ban. (2023) Discover Ray-Ban | Meta Smart Glasses: Specs & features.
+  
+  https://www.ray-ban.com/usa/discover-ray-ban-meta-smart-glasses/clp
 
-- Rewind AI. (2023) Rewind Pendant. Retrieved December 12, 2023, from https://www.rewind.ai/pendant 
+- Rewind AI. (2023) Rewind Pendant. Retrieved December 12, 2023.
 
-- Kirilov, K. (2023, November 13). Wearable AI devices and the emerging AI capabilities. CloudTweaks. https://cloudtweaks.com/2017/07/wearable-ai-devices/ 
+   https://www.rewind.ai/pendant 
+
+- Kirilov, K. (2023, November 13). Wearable AI devices and the emerging AI capabilities. CloudTweaks.
+
+ https://cloudtweaks.com/2017/07/wearable-ai-devices/ 
