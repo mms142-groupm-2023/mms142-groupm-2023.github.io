@@ -1,4 +1,4 @@
->Authors: Charmaine Santos-Ocampo, Kyla Marie C. Santos
+>Contributors: Charmaine Santos-Ocampo, Kyla Marie C. Santos, Marianne Gabrielle B. Simara and Wrynz Dale R. Sumande
 
 >Topic: Issues on the Usage of AI Wearable Technology
 
@@ -50,4 +50,10 @@ The company Rewind is looking to release a product called the Rewind Pendant, an
 
 - Khakurel, J., Pöysä, S., Porras, J. (2017). The Use of Wearable Devices in the Workplace - A Systematic Literature Review. In: Gaggi, O., Manzoni, P., Palazzi, C., Bujari, A., Marquez-Barja, J. (eds) Smart Objects and Technologies for Social Good. GOODTECHS 2016. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 195. Springer, Cham. https://doi.org/10.1007/978-3-319-61949-1_30
 
-- Nahavandi, D., Alizadehsani, R., Khosravi, A., & Acharya, U.R. (2022). Application of artificial intelligence in wearable devices: Opportunities and challenges. Computer Methods and Programs in Biomedicine,  213, doi: https://doi.org/10.1016/j.cmpb.2021.106541. 
+- Nahavandi, D., Alizadehsani, R., Khosravi, A., & Acharya, U.R. (2022). Application of artificial intelligence in wearable devices: Opportunities and challenges. Computer Methods and Programs in Biomedicine,  213, doi: https://doi.org/10.1016/j.cmpb.2021.106541.
+
+- Ligot, D. (2023, November 14). Balancing Innovation and Security: Exploring the AI Pin’s Potential Risks and Safeguards. Hackernoon. https://hackernoon.com/balancing-innovation-and-security-exploring-the-ai-pins-potential-risks-and-safeguards
+
+- Shipman, M. (2023, December 7). AI tools are surprisingly vulnerable to targeted attacks. Futurity. https://www.futurity.org/ai-vulnerable-targeted-attacks-3005912-2/
+  
+- Mahendra, S. (2023, August 31). Dangers Of AI - Dependence On AI. Artificial Intelligence +. https://www.aiplusinfo.com/blog/dangers-of-ai-dependence-on-ai/ 
