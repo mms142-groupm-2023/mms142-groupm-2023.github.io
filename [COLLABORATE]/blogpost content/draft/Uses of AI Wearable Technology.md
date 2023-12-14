@@ -1,4 +1,4 @@
->Author: Kyla Marie C. Santos
+>Author: Kyla Marie C. Santos, Marianne Gabrielle B. Simara and Wrynz Dale R. Sumande
 
 >Topic: The Uses of AI Wearable Technology 
 
