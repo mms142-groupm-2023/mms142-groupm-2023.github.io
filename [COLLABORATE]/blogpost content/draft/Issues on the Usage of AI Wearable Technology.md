@@ -31,7 +31,19 @@ Meta Ray Ban’s Headliner and Wayfarer models’ starting price is <em><b>$299<
 The company Rewind is looking to release a product called the Rewind Pendant, an AI Wearable assistant that is supposed to be able to record what it hears and transcribe it onto the user’s device. The company is planning to release it at the cost of about <em><b>$59</b></em>, which may be a step forward to more cost-friendly AI technologies that will be available to the public.
 </p>
 
+### Responsibility and Discipline
+In line with all the concerns stated above, much discipline and responsibility should be upheld to ensure that these issues would not get in the way of advancing AI Wearable Technology. Vineet (2023) has listed Meta, Humane, and Rewind as the pioneers of the AI wearable technology. They hold a big responsibility in ensuring that the developments are ethically implemented and put user safety and privacy as their top priority as forerunners. It’s important that they understand and navigate the risks around this technology responsively. Ligot (2023) recommended proactive measures that might be applicable to these developers.
 
+ - Emphasis on consent of the user
+- Strong and reliable encryption
+- Transparency
+- Regular software updates for AI-driven wearables
+- Cybersecurity audits
+- Enforcement of ethical guidelines
+- Implementation of data retention policies
+
+*Of course, not only do those three big names should be upholding these principles, each and every AI Wearable Technology developer should aim to fulfill these measures.*
+  
 ### References
 
 - Humane. (2023) Shop. Retrieved December 12, 2023. https://hu.ma.ne/shop
@@ -56,4 +68,6 @@ The company Rewind is looking to release a product called the Rewind Pendant, an
 
 - Shipman, M. (2023, December 7). AI tools are surprisingly vulnerable to targeted attacks. Futurity. https://www.futurity.org/ai-vulnerable-targeted-attacks-3005912-2/
   
-- Mahendra, S. (2023, August 31). Dangers Of AI - Dependence On AI. Artificial Intelligence +. https://www.aiplusinfo.com/blog/dangers-of-ai-dependence-on-ai/ 
+- Mahendra, S. (2023, August 31). Dangers Of AI - Dependence On AI. Artificial Intelligence +. https://www.aiplusinfo.com/blog/dangers-of-ai-dependence-on-ai/
+
+- Vineet. (2023, October 18). A 2023 Guide To Wearable AI: The Future Of Fashion Technology. NFT Evening. https://nftevening.com/a-2023-guide-to-wearable-ai-the-future-of-fashion-technology/ 
