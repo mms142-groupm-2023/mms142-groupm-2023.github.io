@@ -3,7 +3,13 @@
 >Topic: The Uses of AI Wearable Technology 
 
 # Usage of AI Wearable Technology
-  
+
+### A Bit of History on AI Wearable Technology
+
+<p align="Justify">It was as early as the 1960s when wearable technologies penetrated human-technology interaction. Thorp and Shannon pioneered it with a tiny four-button computer that could be carried through one’s hidden small pockets, or even strapped around the waist. The technology was designed to help gamblers cheat at roulette games. It was quite ingenious but we can’t deny the will of such innovative minds to constantly put forward new ideas as an improvement and to facilitate different aspects of our lives.</p>
+
+<p align="Justify">In line with this is the integration of artificial intelligence with these wearable technologies. NetAnalytiks (2023) explains that AI enables these wearable devices to learn, adapt, and make decisions autonomously, enhancing users’ lives in various ways. As the concept effectively improves user experience and the device’s functionality, it also employs the idea of ubiquitous computing (ubicomp) where utilizing the essential features of a computer is achieved anytime and anywhere—providing new levels of personalization, assistance, and knowledge. </p>
+
 ### I. AI Wearable Technology and Productivity in the Workplace <br>
 <p align="Justify">While these accessories obviously sound promising and help with daily human activities, these wearable assistants can also improve employees’ performance and productivity (Belletier, et. al, 2021; Kuratomi, 2023;
 Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assistants can eventually help a person’s cognitive limitations which can increase their ability to work simultaneously. For instance, a person’s “working memory” or the way we process and store information (p.105) can slow down their cognitive ability in situations where employees need to multitask which can lead to confusion and interfering thoughts. With the help of these wearable assistants, employees can get to perform tasks without worrying about cognitive constraints as well as the entry of information in the workplace. <br>
@@ -37,6 +43,14 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 - **Yopi** (Your Online Personal Instructor) -  a wrist wearable device utilizing AI in measuring oxygen consumption. It aims to spot early indicators of health problems.
 - **Rewind Pendant** - an AI integrated pendant that functions with AI voice-to-text technology
 - **Humane Ai Pin** - a relatively new wearable that can give various forms of information with the help of AI
+
+*More General Use*
+
+- **Smartwatches** - from the common function of providing the time of day and the actual date, AI enables these devices to facilitate your common daily activities through Voice Assistants like Siri, Alexa, or Google Assistant. It can also be used for health tracking.
+- 
+- **Hearables/Smart Headphones** - exemplified by Google Pixel Buds, a wearable technology augmented by AI can now assist you in continuously hearing spoken language translated into your ears together with the transcript displayed on your phone.
+- **Emotion Sensing** - Wristbands were formerly deemed as fashion accessories but with the help of AI, they can now track and understand user’s emotional well-being. In the likes of Moodbeam, these technologies allow employers to empathize with their staff in the workplace.
+- **Smart Glasses** - The seemed-to-be futuristic features of glasses have now come to reality. From being an accessory, AI integration to glasses produced innovative solutions for monitoring, diagnosis, and personalized experience, all integral for various industries like healthcare, education, entertainment, and many more.
     
 ### IV. The Fields That Would Benefit From AI Wearable Technology 
 
