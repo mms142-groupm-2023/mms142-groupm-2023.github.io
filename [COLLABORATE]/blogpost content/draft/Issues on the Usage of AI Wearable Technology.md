@@ -1,5 +1,7 @@
 >Contributors: Charmaine Santos-Ocampo, Kyla Marie C. Santos, Marianne Gabrielle B. Simara and Wrynz Dale R. Sumande
 
+>Markdown Translator and Proofreader: Adrianne Gale H. Servillon
+
 >Topic: Issues on the Usage of AI Wearable Technology
 
 # What are the issues concerning the usage of AI Wearable Technology?
