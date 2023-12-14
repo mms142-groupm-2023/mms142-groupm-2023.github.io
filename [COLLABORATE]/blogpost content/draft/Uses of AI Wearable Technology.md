@@ -44,7 +44,7 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 - **Rewind Pendant** - an AI integrated pendant that functions with AI voice-to-text technology
 - **Humane Ai Pin** - a relatively new wearable that can give various forms of information with the help of AI
 
-*More General Use*
+*More General Use:*
 
 - **Smartwatches** - from the common function of providing the time of day and the actual date, AI enables these devices to facilitate your common daily activities through Voice Assistants like Siri, Alexa, or Google Assistant. It can also be used for health tracking.
 - **Hearables/Smart Headphones** - exemplified by Google Pixel Buds, a wearable technology augmented by AI can now assist you in continuously hearing spoken language translated into your ears together with the transcript displayed on your phone.
@@ -81,4 +81,10 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 
 - Nahavandi, D., Alizadehsani, R., Khosravi, A., & Acharya, U.R. (2022). Application of artificial intelligence in wearable devices: Opportunities and challenges. Computer Methods and Programs in Biomedicine,  213, doi: https://doi.org/10.1016/j.cmpb.2021.106541.
 
-- Duffin, M. (2023, November 3). 7 Best AI Wearables in 2023. RareConnections. https://rareconnections.io/best-ai-wearables/ 
+- Duffin, M. (2023, November 3). 7 Best AI Wearables in 2023. RareConnections. https://rareconnections.io/best-ai-wearables/
+
+- Bearne, S. (2021, January 18). A wristband that tells your boss if you are unhappy. BBC News. https://www.bbc.com/news/business-55637328
+  
+- George, S. (2023, July 27). The rise of AI-powered smart glasses: The Future of Augmented Reality. Medium. https://bootcamp.uxdesign.cc/the-rise-of-ai-powered-smart-glasses-the-future-of-augmented-reality-cb1e94775862
+  
+- NetAnalytiks. (2023, October 7). Unveiling AI wearables: Current trends, companies, and value propositions. everything you need to know. LinkedIn. https://www.linkedin.com/pulse/unveiling-ai-wearables-current-trends
