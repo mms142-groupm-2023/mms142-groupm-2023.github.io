@@ -47,7 +47,6 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 *More General Use*
 
 - **Smartwatches** - from the common function of providing the time of day and the actual date, AI enables these devices to facilitate your common daily activities through Voice Assistants like Siri, Alexa, or Google Assistant. It can also be used for health tracking.
-- 
 - **Hearables/Smart Headphones** - exemplified by Google Pixel Buds, a wearable technology augmented by AI can now assist you in continuously hearing spoken language translated into your ears together with the transcript displayed on your phone.
 - **Emotion Sensing** - Wristbands were formerly deemed as fashion accessories but with the help of AI, they can now track and understand user’s emotional well-being. In the likes of Moodbeam, these technologies allow employers to empathize with their staff in the workplace.
 - **Smart Glasses** - The seemed-to-be futuristic features of glasses have now come to reality. From being an accessory, AI integration to glasses produced innovative solutions for monitoring, diagnosis, and personalized experience, all integral for various industries like healthcare, education, entertainment, and many more.
