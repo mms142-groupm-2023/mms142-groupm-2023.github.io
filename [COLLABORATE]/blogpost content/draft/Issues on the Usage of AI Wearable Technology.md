@@ -70,4 +70,8 @@ In line with all the concerns stated above, much discipline and responsibility s
   
 - Mahendra, S. (2023, August 31). Dangers Of AI - Dependence On AI. Artificial Intelligence +. https://www.aiplusinfo.com/blog/dangers-of-ai-dependence-on-ai/
 
-- Vineet. (2023, October 18). A 2023 Guide To Wearable AI: The Future Of Fashion Technology. NFT Evening. https://nftevening.com/a-2023-guide-to-wearable-ai-the-future-of-fashion-technology/ 
+- Vineet. (2023, October 18). A 2023 Guide To Wearable AI: The Future Of Fashion Technology. NFT Evening. https://nftevening.com/a-2023-guide-to-wearable-ai-the-future-of-fashion-technology/
+
+- Gedeon, K. (2023, November 15). Humane Ai pin gave 2 wrong answers in demo. Is this a bad sign? Mashable SEA. https://sea.mashable.com/tech/28815/humane-ai-pin-gave-2-wrong-answers-in-demo-is-this-a-bad-sign
+
+- Mattyasovszky, M., & Trovato, M. G. (2023, May 5). Wearables Industry & AI Ethics: Promise and Peril. Institute for Experiential AI. https://ai.northeastern.edu/wearables-industry-ai-ethics-promise-and-peril/
