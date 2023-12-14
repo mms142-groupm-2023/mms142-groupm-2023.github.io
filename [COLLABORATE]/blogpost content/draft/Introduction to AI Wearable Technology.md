@@ -25,7 +25,7 @@
 <p align="Justify">Kuppahally (2016) highlights that wearable technology is not in any way decelerating in progress at all. It is a technology that presents numerous innovative opportunities that different fields can utilize and leverage for efficiency and task management. But this anticipated surge should be a reminder to carefully harness the advantages while also prioritizing safeguarding against potential risks, especially concerning the data and privacy of users.</p>
 
 <p align="Justify">Wearable technology is becoming increasingly popular and is all set to revolutionize the future as fitness trackers, smart devices, intelligent clothing and VR and AR headsets have gained widespread approval.
-<br>   
+<br><br>   
 <em>The following are some products and concepts and how they will shape wearable technology going forward:</em></p>
 
 **Energy harvesting**
