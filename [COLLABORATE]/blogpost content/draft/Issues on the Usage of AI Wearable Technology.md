@@ -6,7 +6,7 @@
 
 # What are the issues concerning the usage of AI Wearable Technology?
 
-### - Privacy and Security Risks
+### Privacy and Security Risks
 <p align="Justify">The main problem involving wearable technology is that we are not sure about privacy and security risks that a particular accessory may possess, since these are worn in the body by users and collect data of various types such as heart rates, mental health, etc at any time <em>(Fried, 2023; Belletier, et al, 2021; Kuratomi, 2023)</em>. Certain AI wearables have features that can be used to harm if it lands in the wrong hands as well. Features like cameras and recorders are designed for intended purposes. However, someone can use it with malicious intent. Ligot (2023) shared that the AI Pin projector could potentially be exploited and may cause serious harm. Unfortunately, wearables integrated with AI are also at risk of being targeted the same with other AI tools. Shipman (2023) mentioned a research wherein they stated that AI systems can possibly face problems with the so-called adversarial attacks. This attack can change and manipulate data going into the AI which may lead to big and serious problems. Another concern regarding AI wearables is the possibility of manipulation. Ligot (2023) shared a possible harm with the AI Pin which is voice manipulation. The device in particular has a feature that operates with the help of the user’s voice. The voice can potentially be altered and might be susceptible to misuse.
 </p>
 
