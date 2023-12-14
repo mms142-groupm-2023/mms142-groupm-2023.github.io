@@ -10,7 +10,7 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 <br>
 </p>
 
-### II. Examples of wearable technology applied in the workplace: (Nahavandi, 2022)
+### II. Examples of Wearable Technology Applied in the Workplace: (Nahavandi, 2022)
 <p align="Justify">
     <b>1. WearIT@work project (in Skoda Auto car Manufacturing)</b><br>
         A wearable device consisting of a belt computer and a head-mounted display was created to replace traditional paper-based car quality assurance performed at the end of the assembly line. This was also created for the workers to be able to use it even without training.
