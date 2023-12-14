@@ -1,5 +1,5 @@
->Author: Kyla Marie C. Santos, Marianne Gabrielle B. Simara and Wrynz Dale R. Sumande
-
+>Contributors: Kyla Marie C. Santos, Marianne Gabrielle B. Simara, Christian San Juan and Wrynz Dale R. Sumande
+>Markdown Translator and Proofreader: Adrianne Gale H. Servillon
 >Topic: The Various Uses of AI Wearable Technology 
 
 # Usage of AI Wearable Technology
