@@ -27,3 +27,5 @@ Song, Victoria. (2023). The Ray-Ban Meta smart glasses actually make the future 
 Fried, Ina. (2022). Smart Contact Lenses Put Tiny Screens On Your Eyes. AXIOS https://www.axios.com/2022/03/30/smart-contact-lenses-augmented-reality
 
 Mcdowell, Maghan. (2023). Apple’s AR Glasses are Here. Fashion is Watching. Vogue Business https://www.voguebusiness.com/technology/apples-ar-glasses-are-here-fashion-is-watching
+
+Applied to the MD Files
