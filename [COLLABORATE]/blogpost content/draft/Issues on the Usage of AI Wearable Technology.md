@@ -5,16 +5,23 @@
 # What are the issues concerning the usage of AI Wearable Technology?
 
 ### Privacy and Security Risks
-<p align="Justify">The main problem involving wearable technology is that we are not sure about privacy and security risks that a particular accessory may possess, since these are worn in the body by users and collect data of various types such as heart rates, mental health, etc at any time <em>(Fried, 2023; Belletier, et al, 2021; Kuratomi, 2023)</em>.
+<p align="Justify">The main problem involving wearable technology is that we are not sure about privacy and security risks that a particular accessory may possess, since these are worn in the body by users and collect data of various types such as heart rates, mental health, etc at any time <em>(Fried, 2023; Belletier, et al, 2021; Kuratomi, 2023)</em>. Certain AI wearables have features that can be used to harm if it lands in the wrong hands as well. Features like cameras and recorders are designed for intended purposes. However, someone can use it with malicious intent. Ligot (2023) shared that the AI Pin projector could potentially be exploited and may cause serious harm. Unfortunately, wearables integrated with AI are also at risk of being targeted the same with other AI tools. Shipman (2023) mentioned a research wherein they stated that AI systems can possibly face problems with the so-called adversarial attacks. This attack can change and manipulate data going into the AI which may lead to big and serious problems. Another concern regarding AI wearables is the possibility of manipulation. Ligot (2023) shared a possible harm with the AI Pin which is voice manipulation. The device in particular has a feature that operates with the help of the user’s voice. The voice can potentially be altered and might be susceptible to misuse.
 </p>
 
 ### Battery Life
 <p align="Justify"> <em>Nahavandi(2022)</em> explains that some wearable technology need a longer battery life since some are used primarily for workers in continued working shifts.
 </p>
 
+### Reliability and Accuracy 
+<p align="Justify">In a recent demo posted by Humane, AI Pin, a new AI powered-device, has been scrutinized due to giving two inaccurate responses. The device gave a wrong location to a certain question and miscalculated the protein content of almonds. Now, this poses a concern as to whether these AI wearable devices are reliable and accurate. </p>
+    
 ### Long-term Effect on the Wearer’s Body 
 <p align="Justify">Long term health problems may be a result in wearing technology in your body for a longer time, but this needs further research to be able to list evidence on their negative effects <em>(Nahavandi, 2022).</em>
 </p>
+
+### Dependency 
+<p align="Justify">AI in general offers immediate solutions especially to our everyday activities. However, this can raise dependency which may lead to reliance on AI even on tasks we used to handle ourselves. According to Mahendra (2023), this can be detrimental to our critical thinking and can hugely affect other human skills.</p>
+
 
 ### Cost and Accessibility
 <p align="Justify">Currently, another big issue regarding the adoption of wearable technology, both AI and non AI, would be its <em><b>accessibility to the general public</b></em>, especially when taking into consideration their <em><b>cost</b></em>. This concern should be of high significance considering the uses that AI technology can have in many fields and contexts as outlined. Until wearable AI technology is made available to the general public at affordable prices, it may be unlikely that it can take over as well as other technologies have.
@@ -23,6 +30,7 @@ For example, Humane’s AI Pin’s starting price is <em><b>$699</b></em> for th
 Meta Ray Ban’s Headliner and Wayfarer models’ starting price is <em><b>$299</b></em>.
 The company Rewind is looking to release a product called the Rewind Pendant, an AI Wearable assistant that is supposed to be able to record what it hears and transcribe it onto the user’s device. The company is planning to release it at the cost of about <em><b>$59</b></em>, which may be a step forward to more cost-friendly AI technologies that will be available to the public.
 </p>
+
 
 ### References
 
