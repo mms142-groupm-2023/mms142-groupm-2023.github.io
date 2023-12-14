@@ -42,7 +42,7 @@ In line with all the concerns stated above, much discipline and responsibility s
 - Enforcement of ethical guidelines
 - Implementation of data retention policies
 
-*Of course, not only do those three big names should be upholding these principles, each and every AI Wearable Technology developer should aim to fulfill these measures.*
+*Of course, it not only should be the three major developers of AI Wearable Technology should be upholding these principles, each and every AI Wearable Technology developer should aim to fulfill these measures.*
   
 ### References
 
