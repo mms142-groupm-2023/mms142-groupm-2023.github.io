@@ -66,4 +66,6 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 
 - Khakurel, J., Pöysä, S., Porras, J. (2017). The Use of Wearable Devices in the Workplace - A Systematic Literature Review. In: Gaggi, O., Manzoni, P., Palazzi, C., Bujari, A., Marquez-Barja, J. (eds) Smart Objects and Technologies for Social Good. GOODTECHS 2016. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 195. Springer, Cham. https://doi.org/10.1007/978-3-319-61949-1_30
 
-- Nahavandi, D., Alizadehsani, R., Khosravi, A., & Acharya, U.R. (2022). Application of artificial intelligence in wearable devices: Opportunities and challenges. Computer Methods and Programs in Biomedicine,  213, doi: https://doi.org/10.1016/j.cmpb.2021.106541. 
+- Nahavandi, D., Alizadehsani, R., Khosravi, A., & Acharya, U.R. (2022). Application of artificial intelligence in wearable devices: Opportunities and challenges. Computer Methods and Programs in Biomedicine,  213, doi: https://doi.org/10.1016/j.cmpb.2021.106541.
+
+- Duffin, M. (2023, November 3). 7 Best AI Wearables in 2023. RareConnections. https://rareconnections.io/best-ai-wearables/ 
