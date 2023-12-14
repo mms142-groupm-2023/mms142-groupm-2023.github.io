@@ -28,7 +28,7 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 </p>
 
 ### III. Other Noteworthy AI Wearable Technology Uses in Various Fields
-There have been several cutting-edge AI-powered wearables in the market that have been making noises ever since the integration was introduced. Below are some of the noteworthy devices that are currently accessible in the market:
+*There have been several cutting-edge AI-powered wearables in the market that have been making noises ever since the integration was introduced. Below are some of the noteworthy devices that are currently accessible in the market:*
 
 - **Whoop 4.0** -  an AI wearable fitness tracker that gives insights and biometric tracking with the help of biometric sensors
 - **Apollo Neuro** - an AI wearable developed mainly for stress and sleep management and operates with the help of vibration frequencies
