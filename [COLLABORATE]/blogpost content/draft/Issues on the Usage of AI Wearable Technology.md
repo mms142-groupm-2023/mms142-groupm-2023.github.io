@@ -9,7 +9,7 @@
 </p>
 
 ### Battery Life
-<p align="Justify"> <em>Nahavandi(2022)</em> explains that some wearable technology need a longer battery life since some are used primarily for workers in continued working shifts.
+<p align="Justify"> <em>Nahavandi (2022)</em> explains that some wearable technology need a longer battery life since some are used primarily for workers in continued working shifts.
 </p>
 
 ### Reliability and Accuracy 
