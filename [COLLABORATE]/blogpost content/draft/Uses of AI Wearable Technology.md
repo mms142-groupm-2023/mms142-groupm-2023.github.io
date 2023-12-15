@@ -20,9 +20,9 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 
 ### II. Examples of Wearable Technology Applied in the Workplace: (Nahavandi, 2022)
 <p align="Justify">
-    <b>1. WearIT@work project (in Skoda Auto car Manufacturing)</b><br>
+    <b>1. WearIT@work project (Skoda Auto car Manufacturing)</b><br>
         A wearable device consisting of a belt computer and a head-mounted display was created to replace traditional paper-based car quality assurance performed at the end of the assembly line. This was also created for the workers to be able to use it even without training.
-        Problem – battery life, since workers will use it at normal working hours, thus, these wearable devices need to be useable for that amount of time.
+        The main problem this technology faced was battery life since workers will use it at normal working hours.
 <br><br>
     <b>2. Carnegie Mellon University (CMU)’s “Navigator 2”</b><br>
         This research and creation of wearable devices was used to lessen inspection time for mobile workers. 
@@ -40,17 +40,17 @@ Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assi
 
 - **Whoop 4.0** -  an AI wearable fitness tracker that gives insights and biometric tracking with the help of biometric sensors
 - **Apollo Neuro** - an AI wearable developed mainly for stress and sleep management and operates with the help of vibration frequencies
-- **Oura Smart Ring** - an AI powered ring which uses different sensors and accelerometers that helps in providing body insights
+- **Oura Smart Ring** - an AI-powered ring that uses different sensors and accelerometers that help provide body insights
 - **Pavlok 3** - a wearable designed to operate with electrical impulses. It mainly uses the concept of aversive therapy.
-- **Yopi** (Your Online Personal Instructor) -  a wrist wearable device utilizing AI in measuring oxygen consumption. It aims to spot early indicators of health problems.
-- **Rewind Pendant** - an AI integrated pendant that functions with AI voice-to-text technology
+- **YOPI** (Your Online Personal Instructor) -  a wrist wearable device utilizing AI in measuring oxygen consumption. It aims to spot early indicators of health problems.
+- **Rewind Pendant** - an AI-integrated pendant that functions with AI voice-to-text technology
 - **Humane Ai Pin** - a relatively new wearable that can give various forms of information with the help of AI
 
 *More General Use:*
 
 - **Smartwatches** - from the common function of providing the time of day and the actual date, AI enables these devices to facilitate your common daily activities through Voice Assistants like Siri, Alexa, or Google Assistant. It can also be used for health tracking.
 - **Hearables/Smart Headphones** - exemplified by Google Pixel Buds, a wearable technology augmented by AI can now assist you in continuously hearing spoken language translated into your ears together with the transcript displayed on your phone.
-- **Emotion Sensing** - Wristbands were formerly deemed as fashion accessories but with the help of AI, they can now track and understand user’s emotional well-being. In the likes of Moodbeam, these technologies allow employers to empathize with their staff in the workplace.
+- **Emotion Sensing** - Wristbands were formerly deemed as fashion accessories but with the help of AI, they can now track and understand users’ emotional well-being. In the likes of Moodbeam, these technologies allow employers to empathize with their staff in the workplace.
 - **Smart Glasses** - The seemed-to-be futuristic features of glasses have now come to reality. From being an accessory, AI integration to glasses produced innovative solutions for monitoring, diagnosis, and personalized experience, all integral for various industries like healthcare, education, entertainment, and many more.
     
 ### IV. The Fields That Would Benefit From AI Wearable Technology 
