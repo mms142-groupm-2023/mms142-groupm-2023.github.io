@@ -1,0 +1,92 @@
+>Contributors: Kyla Marie C. Santos, Marianne Gabrielle B. Simara, Christian San Juan and Wrynz Dale R. Sumande
+
+>Markdown Translator and Proofreader: Adrianne Gale H. Servillon
+
+>Topic: The Various Uses of AI Wearable Technology 
+
+# Usage of AI Wearable Technology
+
+### A Bit of History on AI Wearable Technology
+
+<p align="Justify">It was as early as the 1960s when wearable technologies penetrated human-technology interaction. Thorp and Shannon pioneered it with a tiny four-button computer that could be carried through one’s hidden small pockets, or even strapped around the waist. The technology was designed to help gamblers cheat at roulette games. It was quite ingenious but we can’t deny the will of such innovative minds to constantly put forward new ideas as an improvement and to facilitate different aspects of our lives.</p>
+
+<p align="Justify">In line with this is the integration of artificial intelligence with these wearable technologies. NetAnalytiks (2023) explains that AI enables these wearable devices to learn, adapt, and make decisions autonomously, enhancing users’ lives in various ways. As the concept effectively improves user experience and the device’s functionality, it also employs the idea of ubiquitous computing (ubicomp) where utilizing the essential features of a computer is achieved anytime and anywhere—providing new levels of personalization, assistance, and knowledge. </p>
+
+### I. AI Wearable Technology and Productivity in the Workplace <br>
+<p align="Justify">While these accessories obviously sound promising and help with daily human activities, these wearable assistants can also improve employees’ performance and productivity (Belletier, et. al, 2021; Kuratomi, 2023;
+Khakurel, 2017). According to Belletier, et. al (2021), wearable technology assistants can eventually help a person’s cognitive limitations which can increase their ability to work simultaneously. For instance, a person’s “working memory” or the way we process and store information (p.105) can slow down their cognitive ability in situations where employees need to multitask which can lead to confusion and interfering thoughts. With the help of these wearable assistants, employees can get to perform tasks without worrying about cognitive constraints as well as the entry of information in the workplace. <br>
+<br>
+</p>
+
+### II. Examples of Wearable Technology Applied in the Workplace: (Nahavandi, 2022)
+<p align="Justify">
+    <b>1. WearIT@work project (Skoda Auto car Manufacturing)</b><br>
+        A wearable device consisting of a belt computer and a head-mounted display was created to replace traditional paper-based car quality assurance performed at the end of the assembly line. This was also created for the workers to be able to use it even without training.
+        The main problem this technology faced was battery life since workers will use it at normal working hours.
+<br><br>
+    <b>2. Carnegie Mellon University (CMU)’s “Navigator 2”</b><br>
+        This research and creation of wearable devices was used to lessen inspection time for mobile workers. 
+        The creation of this wearable device has reduced the inspection time to 50%.
+        Main challenges – interface design, cognitive model, contextual awareness, and adaptation to tasks being performed (p.14)
+<br><br>
+    <b>3. Georgia Institute of Technology (Georgia Tech) Order Picking Wearable Device </b><br>
+        This device has helped workers in efficient order picking and could also help in preventing possible human errors.
+        Challenge – wearability of head-mounted displays and optimization of decision-making for mobile workers through wearable computing. (p.14)
+<br><br>
+</p>
+
+### III. Other Noteworthy AI Wearable Technology Uses in Various Fields
+*There have been several cutting-edge AI-powered wearables in the market that have been making noises ever since the integration was introduced. Below are some of the noteworthy devices that are currently accessible in the market:*
+
+- **Whoop 4.0** -  an AI wearable fitness tracker that gives insights and biometric tracking with the help of biometric sensors
+- **Apollo Neuro** - an AI wearable developed mainly for stress and sleep management and operates with the help of vibration frequencies
+- **Oura Smart Ring** - an AI-powered ring that uses different sensors and accelerometers that help provide body insights
+- **Pavlok 3** - a wearable designed to operate with electrical impulses. It mainly uses the concept of aversive therapy.
+- **YOPI** (Your Online Personal Instructor) -  a wrist wearable device utilizing AI in measuring oxygen consumption. It aims to spot early indicators of health problems.
+- **Rewind Pendant** - an AI-integrated pendant that functions with AI voice-to-text technology
+- **Humane Ai Pin** - a relatively new wearable that can give various forms of information with the help of AI
+
+*More General Use:*
+
+- **Smartwatches** - from the common function of providing the time of day and the actual date, AI enables these devices to facilitate your common daily activities through Voice Assistants like Siri, Alexa, or Google Assistant. It can also be used for health tracking.
+- **Hearables/Smart Headphones** - exemplified by Google Pixel Buds, a wearable technology augmented by AI can now assist you in continuously hearing spoken language translated into your ears together with the transcript displayed on your phone.
+- **Emotion Sensing** - Wristbands were formerly deemed as fashion accessories but with the help of AI, they can now track and understand users’ emotional well-being. In the likes of Moodbeam, these technologies allow employers to empathize with their staff in the workplace.
+- **Smart Glasses** - The seemed-to-be futuristic features of glasses have now come to reality. From being an accessory, AI integration to glasses produced innovative solutions for monitoring, diagnosis, and personalized experience, all integral for various industries like healthcare, education, entertainment, and many more.
+    
+### IV. The Fields That Would Benefit From AI Wearable Technology 
+
+*Nahavandi (2022) listed different areas in which AI wearable technology can benefit from, these includes areas in:*
+
+  **Sports** – players can avoid potential injuries arising from heat stroke, for example. AI wearable devices can monitor a player’s vitals and maintain a balanced body temperature.
+  
+  **Healthcare and health status monitoring** – AI wearable technologies can monitor blood pressure, heart rate, etc.
+  
+  **Fitness** – wearable devices can track “fitness-related activities” (p.10) and motivate the user to be healthy, keeping in mind that measurements are not always accurate.
+  
+  **Mental health** – wearable devices are said to be useful in determining human physiology status based on collected data such as “heartbeat, blood pressure, body temperature, or ECG (p.13)”
+  
+  **Helping with movement disorders** – this can be used in assisting stroke patients in the movement of hips and knees, for instance.
+  
+  **Autism** – previous wearable technology devices were created to improve autistic children in emotion recognition as well as stereotypical motor movements (SMMs) (p.13) for decision-making.
+
+</p>
+
+### References
+
+- Belletier, C., Charkhabi, M., Pires de Andrade Silva, G. et al (2021). Wearable cognitive assistants in a factory setting: a critical review of a promising way of enhancing cognitive performance and well-being. Cogn Tech Work 23, 103–116, https://doi.org/10.1007/s10111-019-00610-2 
+
+- Fried, I. (2023). Companies race to make AI you can wear. Axios. Retrieved from https://www.axios.com/2023/10/04/ai-wearables-meta-humane-tab-rewind
+
+- Kuratomi, D., Shin, C., Duffy, V.G. (2023). Systematic Literature Review on the Advances of Wearable Technologies. In: Duffy, V.G., Krömker, H., A. Streitz, N., Konomi, S. (eds) HCI International 2023 – Late Breaking Papers. HCII 2023. Lecture Notes in Computer Science, vol 14057. Springer, Cham. https://doi.org/10.1007/978-3-031-48047-8_5 
+
+- Khakurel, J., Pöysä, S., Porras, J. (2017). The Use of Wearable Devices in the Workplace - A Systematic Literature Review. In: Gaggi, O., Manzoni, P., Palazzi, C., Bujari, A., Marquez-Barja, J. (eds) Smart Objects and Technologies for Social Good. GOODTECHS 2016. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 195. Springer, Cham. https://doi.org/10.1007/978-3-319-61949-1_30
+
+- Nahavandi, D., Alizadehsani, R., Khosravi, A., & Acharya, U.R. (2022). Application of artificial intelligence in wearable devices: Opportunities and challenges. Computer Methods and Programs in Biomedicine,  213, doi: https://doi.org/10.1016/j.cmpb.2021.106541.
+
+- Duffin, M. (2023, November 3). 7 Best AI Wearables in 2023. RareConnections. https://rareconnections.io/best-ai-wearables/
+
+- Bearne, S. (2021, January 18). A wristband that tells your boss if you are unhappy. BBC News. https://www.bbc.com/news/business-55637328
+  
+- George, S. (2023, July 27). The rise of AI-powered smart glasses: The Future of Augmented Reality. Medium. https://bootcamp.uxdesign.cc/the-rise-of-ai-powered-smart-glasses-the-future-of-augmented-reality-cb1e94775862
+  
+- NetAnalytiks. (2023, October 7). Unveiling AI wearables: Current trends, companies, and value propositions. everything you need to know. LinkedIn. https://www.linkedin.com/pulse/unveiling-ai-wearables-current-trends
