@@ -6,6 +6,7 @@ image:
 author: 
 category:
 tags:
+img_path: /[COLLABORATE]/imgs
 # Author List:
 # ccsanjuan, chimmy, krissarosa, kylamsantos, marianne
 ---

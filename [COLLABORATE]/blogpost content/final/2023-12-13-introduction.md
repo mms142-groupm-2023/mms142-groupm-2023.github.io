@@ -6,6 +6,7 @@ image:
 author: [ccsanjuan, marianne, krissarosa, adrianne]
 category: [artificial intelligence, wearable]
 tags: [neuralink, productivity, disruptive, technology, apple glasses]
+img_path: /[COLLABORATE]/imgs
 # Author List:
 # ccsanjuan, chimmy, krissarosa, kylamsantos, adrianne, marianne
 ---
@@ -26,12 +27,12 @@ tags: [neuralink, productivity, disruptive, technology, apple glasses]
 ### How Big is AI Wearable Technology in Present Time?
 *An insight into statistics related to AI Wearables:*
 
-![Desktop View](./blog1-aipin.png){: w="350" }
+![Desktop View](blog1-aipin.png){: w="350" }
 
 <p align="Justify">The market for AI wearables has been expanding rapidly. In a report by Allied Market Research (2022), the given technology is forecasted to achieve a total of $69.51 billion by 2026. The growth would be 26.5% from 2019 up to 2026. This number can be due to the anticipation of increasing demand for these wearable technologies. 
     <br>
 <p align="Justify">In 2019, it was predicted that a total of $42 billion worth of sales of wearables would be achieved by the end of the year. Moving forward to the next years, Statista forecasted a total of 158 million wearable units for 2022. This predicted surge is a reflection of the remarkable influence and trend of smart wearables in the market (Infopulse, 2019).</p>
-    
+
 ### AI Wearables Find Use In Different Fields
 <p align="Justify">In a study conducted by Khakurel et al. (2017), they found that wearables have the capability to improve productivity in workplaces. The study highlights that utilizing technology helps in the psychological and physiological well-being of employees. In particular, it helps facilitate smoother work, enhances operational effectiveness, reduces stress, and more.</p>
 
