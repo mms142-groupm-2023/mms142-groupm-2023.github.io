@@ -1,8 +1,21 @@
->Contributors: Marianne Gabrielle B. Simara, Christian San Juan and Kristina Sarosa
+---
+layout: post
+title: Introduction to AI Wearable Technology
+date: 2023-12-13 05:00 +0800
+image:
+author: [ccsanjuan, marianne, krissarosa, adrianne]
+category: [artificial intelligence, wearable]
+tags: [neuralink, productivity, disruptive, technology, apple glasses]
+# Author List:
+# ccsanjuan, chimmy, krissarosa, kylamsantos, adrianne, marianne
+---
+
+
+<!-- >Contributors: Marianne Gabrielle B. Simara, Christian San Juan and Kristina Sarosa
 
 >Markdown Translator and Proofreader: Adrianne Gale H. Servillon
 
->Topic: Introduction to AI Wearable Technology 
+>Topic: Introduction to AI Wearable Technology  -->
 
 # AI Wearable Devices as a Disruptive Technology
 <p align="Justify">AI wearables as a disruptive technology has this massive potential of changing and revolutionizing many industries. It’s been bringing new ideas to a wide variety of areas such as healthcare, work, communication, and even entertainment. It’s an innovative transformation blending artificial intelligence with the convenience of a wearable device.</p>
