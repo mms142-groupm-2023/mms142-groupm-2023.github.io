@@ -20,10 +20,13 @@ tags: [neuralink, productivity, disruptive, technology, apple glasses]
 # AI Wearable Devices as a Disruptive Technology
 <p align="Justify">AI wearables as a disruptive technology has this massive potential of changing and revolutionizing many industries. It’s been bringing new ideas to a wide variety of areas such as healthcare, work, communication, and even entertainment. It’s an innovative transformation blending artificial intelligence with the convenience of a wearable device.</p>
 
+
 <p align="Justify">AI wearable devices come in different types and forms that serve different functions and purposes. Smartwatches, clothing-based wearables, and smart glasses are some of the famous examples of this technology. Essentially, these devices gather data and information through smart algorithms giving their users precise and relevant information and details. These are among other many tasks that they can offer help for including health improvement, increasing productivity, and handling convenience matters as an artificial intelligence.</p>
 
 ### How Big is AI Wearable Technology in Present Time?
 *An insight into statistics related to AI Wearables:*
+
+![Desktop View](./blog1-aipin.png){: w="350" }
 
 <p align="Justify">The market for AI wearables has been expanding rapidly. In a report by Allied Market Research (2022), the given technology is forecasted to achieve a total of $69.51 billion by 2026. The growth would be 26.5% from 2019 up to 2026. This number can be due to the anticipation of increasing demand for these wearable technologies. 
     <br>
