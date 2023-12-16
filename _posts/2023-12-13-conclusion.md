@@ -2,10 +2,10 @@
 layout: post
 title: AI Wearable Assistants - Conclusion
 date: 2023-12-13 07:00 +0800
-image:
-author: 
-category:
-tags:
+image: /[COLLABORATE]/imgs/blog-deepmind.png
+author: kylamsantos
+category: [artificial intelligence, wearable]
+tags: [wearable, technology]
 img_path: /[COLLABORATE]/imgs/
 # Author List:
 # ccsanjuan, chimmy, krissarosa, kylamsantos, marianne

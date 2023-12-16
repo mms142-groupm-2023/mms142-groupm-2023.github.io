@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to AI Wearable Technology
 date: 2023-12-13 05:00 +0800
-image:
+image: /[COLLABORATE]/imgs/blog-ai-chip.png
 author: [ccsanjuan, marianne, krissarosa, adrianne]
 category: [artificial intelligence, wearable]
 tags: [neuralink, productivity, disruptive, technology, apple glasses]
