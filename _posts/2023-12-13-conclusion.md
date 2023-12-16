@@ -2,7 +2,7 @@
 layout: post
 title: AI Wearable Assistants - Conclusion
 date: 2023-12-13 07:00 +0800
-image: /[COLLABORATE]/imgs/blog-deepmind.png
+image: blog-deepmind.png
 author: kylamsantos
 category: [artificial intelligence, wearable]
 tags: [wearable, technology]
